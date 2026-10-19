@@ -37,10 +37,9 @@ certificate: click **More info → Run anyway**.*
 ## Features
 
 ### Browse your library
-[<img src="docs/screenshots/library.png" width="430" align="right" alt="Library">](docs/screenshots/library.png)
+[<img src="screenshot-library.webp" width="430" align="right" alt="Library">](screenshot-library.webp)
 
-- Smooth with 100,000+ images, GIFs and videos
-- boorus to search. gelbooru, rule34, e621, and realbooru
+- Smooth with 100,000+ images, GIFs and videos - thumbnails load only for what's on screen
 - Two buckets, *Unfiltered* and *Filtered*, to sort what you keep
 - Search tabs, like a browser
 - Copy any image straight to the clipboard, or show it in Explorer
@@ -49,7 +48,7 @@ certificate: click **More info → Run anyway**.*
 <br clear="right">
 
 ### Search and sort
-[<img src="docs/screenshots/search.png" width="430" align="right" alt="Tag search">](docs/screenshots/search.png)
+[<img src="screenshot-search.webp" width="430" align="right" alt="Tag search">](screenshot-search.webp)
 
 - Instant tag search across the whole library
 - `tag1 tag2` for both, `tag1|tag2` for either
@@ -60,7 +59,7 @@ certificate: click **More info → Run anyway**.*
 <br clear="right">
 
 ### Review and clean up
-[<img src="docs/screenshots/viewer.png" width="430" align="right" alt="Pop-out viewer">](docs/screenshots/viewer.png)
+[<img src="screenshot-viewer.webp" width="430" align="right" alt="Pop-out viewer">](screenshot-viewer.webp)
 
 - Pop-out viewer with zoom, tags and full file details
 - Keyboard and mouse-button shortcuts for next, previous and delete
@@ -70,7 +69,7 @@ certificate: click **More info → Run anyway**.*
 <br clear="right">
 
 ### Characters, artists and series
-[<img src="docs/screenshots/waifu.png" width="430" align="right" alt="Characters page">](docs/screenshots/waifu.png)
+[<img src="screenshot-waifu.webp" width="430" align="right" alt="Characters page">](screenshot-waifu.webp)
 
 - Every character, VTuber, artist and series in your library on one page
 - Pick and crop a portrait from your own images
@@ -86,7 +85,7 @@ certificate: click **More info → Run anyway**.*
 - **Blacklist** posts you never want to download again
 
 ### Customize
-[<img src="docs/screenshots/settings.png" width="430" align="right" alt="Settings">](docs/screenshots/settings.png)
+[<img src="screenshot-settings.png" width="430" align="right" alt="Settings">](screenshot-settings.png)
 
 - Classic or frosted style, with your own colours
 - Toolbar at the top or on the left
