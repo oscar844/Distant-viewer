@@ -87,3 +87,6 @@ next to this repository, plus a small `release\Distant Viewer.exe` launcher that
 always opens the newest build. A running copy notices newly published builds
 and offers to restart into them, showing the release notes from
 `APP_UPDATE_NOTES` in `DistantViewer.py`.
+
+note 
+One scanner on VirusTotal (1/71) flags Pillow’s standard image modules - a known false positive for Python apps. Windows Defender and the other 70 engines report it clean.
