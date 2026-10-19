@@ -1,0 +1,5 @@
+PySide6>=6.11
+Pillow>=12.0
+# Optional: real video-frame thumbnails and video duplicate matching.
+opencv-python-headless>=4.13
+numpy>=2.4

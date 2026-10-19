@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Build output (tools/publish.py)
+build/
+dist/
+release/
+*.spec
+*.zip
+
+# Personal / local only - never upload
+site_accounts.json
+settings.json
+media_cache.json
+*.log
+*.lnk
+.claude/
+CLAUDE.md
